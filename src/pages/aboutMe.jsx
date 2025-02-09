@@ -6,9 +6,9 @@ export default function AboutMe() {
     <div class='about'>
       <h1><strong>About Me</strong></h1>
       <div class='about-content'> 
-      <img class='mav' src='/assets/mavy.jpg' alt='Maverick Snider' />
+      <img class='Daniel' src='public/assets/Resume picture.jpg' alt='Daniel Wargo' />
       <p class='me'>
-        Hello! My name is Maverick Snider and I am a learning web developer. I am currently enrolled in the university of Ohio's coding bootcamp. I am learning how to code in HTML, CSS, and JavaScript. I am also learning how to use React and Node.js. I am excited to learn more about coding and to start my career as a web developer.
+        Hello, I am Daniel T Wargo, a Full Stack Web Developer with a passion for creating dynamic and user-friendly web applications. I have a strong foundation in HTML, CSS, JavaScript, and React, and I am always eager to learn new technologies and improve my skills. I am currently seeking opportunities to apply my knowledge and contribute to exciting projects. Welcome to my portfolio!
       </p>
       </div>
     </div>

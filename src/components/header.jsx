@@ -5,7 +5,7 @@ import Nav from './nav';
 export default function Header() {
     return (
         <header>
-            <h1>Maverick Snider</h1>
+            <h1>Daniel T. Wargo</h1>
             <Nav />
         </header>
     );

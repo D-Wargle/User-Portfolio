@@ -27,7 +27,7 @@ export default function Contact() {
   return (
     <div className="contact">
       <h1><strong>Contact Me</strong></h1>
-      <p>Feel free to reach out to me at maverickmmsc@gmail.com or fill out the form below.</p>
+      <p>Reach out to me at danieltwarg@gmail.com if you have any questions about my work!</p>
       <form onSubmit={handleSubmit}>
         <strong>Name:</strong>
         <input
